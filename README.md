@@ -4,7 +4,7 @@
 
 # Flappy Bird     <img src="https://emojis.slackmojis.com/emojis/images/1481348711/1475/flappy_bird.png?1481348711"  width="35" height="35" />
 
-A 2d Flappy bird remake  built using HTML, CSS &amp;  JS ,in which the player can control the movement of the flappy bird using right mouse click  to avoid incoming obstacle.
+A 2D Flappy bird remake  built using HTML, CSS &amp;  JS ,in which the player can control the movement of the flappy bird using right mouse click  to avoid incoming obstacle.
 
 
 ![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/FlappyBird?style=plastic)
