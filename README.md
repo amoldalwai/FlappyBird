@@ -17,7 +17,7 @@ A 2D Flappy bird remake  built using HTML, CSS &amp;  JS ,in which the player ca
 [Installing](#Installing)
 
 
-![Demonstartion Video](https://j.gifs.com/D1j5OK.gif)
+![Demonstartion Video](https://j.gifs.com/3Q84An.gif)
 
 
 ## Demo Link :point_right: [https://amoldalwai.github.io/FlappyBird/](https://amoldalwai.github.io/FlappyBird/)
