@@ -27,12 +27,10 @@ A 2D Flappy bird remake  built using HTML, CSS &amp;  JS ,in which the player ca
 
 ## Features 
 
-- [x] Control Super Mario movement with right mouse click
-- [x] Multiple enemies including squid , piranha and underwater foliage
+- [x] Control Flappy Bird movement with right mouse click
 - [x] Collision Detection
-- [x] Random enemy  movement
 - [x] Score tracking
-- [ ] Difficulty Level
+
 
 
 ## Youtube
